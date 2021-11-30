@@ -1,5 +1,5 @@
 Extract this folder into a folder in desktop or where ever u want int
-run game.exe
-enjoy!
-if you don't trust these files, they are completely open source, and
-u can do a virus scan on them or whatever u want.
+Configure to your needs
+Enjoy!
+if you happen to not trust these files, they are completely open source
+and u can do a virus scan on them or whatever u want.
